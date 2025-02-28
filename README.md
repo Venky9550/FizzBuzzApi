@@ -25,4 +25,4 @@ This is a Web API that implements the FizzBuzz logic with division counting.
 
 ## Note
 
-Replace `[https://localhost:7071/]` with the actual URL your API is running on.   
+Replace `[https://localhost:7071/]` with the actual URL your API is running on.
